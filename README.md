@@ -1,4 +1,4 @@
-ComplaintIQ – Escalation Tracker System
+--ComplaintIQ – Escalation Tracker System
 ComplaintIQ is a modern, real-time complaint management platform designed to streamline issue tracking, escalation handling, and resolution monitoring through an intuitive dashboard and structured workflow.
 
 📌 Overview
