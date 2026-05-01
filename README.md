@@ -65,3 +65,17 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 ---
 
 ## 📁 Project Structure
+Complaint_Escalation_System/
+│
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+---
+## 🔧 Future Enhancements
+Backend integration (Node.js / Firebase)
+User authentication system
+Database integration for persistent storage
+Real-time notifications
+Admin panel improvements
