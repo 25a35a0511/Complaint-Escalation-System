@@ -66,12 +66,12 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 
 ## 📁 Project Structure
 - Complaint_Escalation_System/
-│
-├── css/
-├── js/
-├── images/
-├── index.html
-└── README.md
+- │
+- ├── css/
+- ├── js/
+- ├── images/
+- ├── index.html
+- └── README.md
 ---
 ## 🔧 Future Enhancements
 
@@ -80,3 +80,16 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 - Database integration for persistent storage
 - Real-time notifications
 - Admin panel improvements
+
+## 🙌 Acknowledgements
+Inspired by modern dashboard UI systems and real-world complaint management workflows.
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub and support the development!
+
+## 👩‍💻 Authors
+Sadwika Vulli, Mounika Pothula, Aditya, Shankar Teja📍 CSE Students @ Pragati Engineering College
+🎯 Aspiring & AI Enthusiasts
+
+## 📜 License
+This project is open-source and available under the MIT License.
