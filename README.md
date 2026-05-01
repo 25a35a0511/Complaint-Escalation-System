@@ -63,15 +63,17 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 - **Tools:** VS Code  
 
 ---
-
 ## 📁 Project Structure
-- Complaint_Escalation_System/
-  
--- ├── css/          
-├── js/           
-├── images/       
-├── index.html    
-└── README.md    
+
+```
+Complaint_Escalation_System/
+│
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+```
 ---
 ## 🔧 Future Enhancements
 
