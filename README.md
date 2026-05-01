@@ -14,13 +14,13 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 
 ## ✨ Key Features
 
-- ✔️ Real-time complaint tracking and analytics  
-- ✔️ Multi-level escalation system (L1 → L4)  
-- ✔️ SLA-based monitoring and alerts  
-- ✔️ Advanced filtering and search functionality  
-- ✔️ Interactive dashboards with charts and insights  
-- ✔️ Priority-based complaint handling (Low, Medium, High, Critical)  
-- ✔️ Clean and responsive UI design  
+ ✔️ Real-time complaint tracking and analytics  
+ ✔️ Multi-level escalation system (L1 → L4)  
+ ✔️ SLA-based monitoring and alerts  
+ ✔️ Advanced filtering and search functionality  
+ ✔️ Interactive dashboards with charts and insights  
+ ✔️ Priority-based complaint handling (Low, Medium, High, Critical)  
+ ✔️ Clean and responsive UI design  
 
 ---
 
@@ -65,7 +65,7 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 ---
 
 ## 📁 Project Structure
--Complaint_Escalation_System/
+- Complaint_Escalation_System/
 │
 ├── css/
 ├── js/
@@ -75,8 +75,8 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 ---
 ## 🔧 Future Enhancements
 
-Backend integration (Node.js / Firebase)
-User authentication system
-Database integration for persistent storage
-Real-time notifications
-Admin panel improvements
+- Backend integration (Node.js / Firebase)
+- User authentication system
+- Database integration for persistent storage
+- Real-time notifications
+- Admin panel improvements
